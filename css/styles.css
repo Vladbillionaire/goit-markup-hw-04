@@ -389,14 +389,14 @@ img {
     border-radius: 4px;
 }
 
-.features-item-icon:hover {
+/* .features-item-icon:hover {
     background-color: var(--accent-color);
-}
+} */
 
-.features-item-icon:hover .features-icon {
+/* .features-item-icon:hover .features-icon {
     --color1: #ffffff;
     --color2: #000000;
-}
+} */
 
 /* What are we doing */
 
@@ -694,7 +694,7 @@ img {
 
 .footer-social-caption {
     display: block;
-
+    
     text-transform: uppercase;
     color: var(--icon-color-hover);
     margin-bottom: 20px;
