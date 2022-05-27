@@ -507,6 +507,7 @@ img {
 
 .clients-link {
     display: flex;
+    outline: transparent;
     align-items: center;
     justify-content: center;
 
